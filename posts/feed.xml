@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://invariantproperties.github.io/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Invariant Properties</title>
+    <link>http://invariantproperties.github.io/posts/</link>
+    <description>Recent content in Posts on Invariant Properties</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 15:05:49 -0600</lastBuildDate>
+    <atom:link rel="self" href="http://invariantproperties.github.io/posts/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>The Return Of The Blog!</title>
+      <link>http://invariantproperties.github.io/posts/first/</link>
+      <pubDate>Mon, 29 Jul 2024 15:05:49 -0600</pubDate>
+      <guid>http://invariantproperties.github.io/posts/first/</guid>
+      <description>&lt;p&gt;This blog was originally located on a self-hosted WordPress instance but I decided to shut it down because I had shifted nearly all of my blogging to my employer&amp;rsquo;s internal blog and I felt I couldn&amp;rsquo;t commit to the time required to keep my self-hosted instance secure.&lt;/p&gt;
+&lt;p&gt;I had soft plans to bring it back up briefly to capture a static mirror of the contents but never got around to it. Life, sigh.&lt;/p&gt;
+
+
+
+&lt;h3 id=&#34;why-is-it-returning-now&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://invariantproperties.github.io/posts/first/#why-is-it-returning-now&#34;&gt;Why is it returning now?&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;There are several reasons. The first is that it&amp;rsquo;s now a lot easier to use &lt;a href=&#34;https://www.markdownguide.org&#34;&gt;Markdown&lt;/a&gt; format. To be specific, I&amp;rsquo;m currently experimenting with &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; (editor) and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; (static site generator). It has a good balance between functionality and ease-of-use.&lt;/p&gt;
+&lt;p&gt;The second reason is that I see a growing need to produce coherent sites from independently produced Markdown documents. This format is flexible enough to support tables, links, etc., but without the endless pits of despair of modern HTML.&lt;/p&gt;
+&lt;p&gt;The final reason is because I have something to say.&lt;/p&gt;
+
+
+
+&lt;h3 id=&#34;expect-ongoing-changes&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://invariantproperties.github.io/posts/first/#expect-ongoing-changes&#34;&gt;Expect ongoing changes&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;A final note - the appearance of this site will undoubtedly change over the coming weeks and months since I&amp;rsquo;ve barely scratched the surface of what Hugo offers.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
